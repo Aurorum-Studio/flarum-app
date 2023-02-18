@@ -1,4 +1,1 @@
-cd
-start
-gradlew clean
-gradlew build
+cd&& gradlew clean&& gradlew build
