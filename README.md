@@ -28,7 +28,7 @@ This approach doesn't allow you to:
 * **Customize your app package name**
 * **Add custom functions to your generated app**
 
-Here is how the easier approach:
+Here is instruction of the command-line approach:
 1. Make sure you have Gradle installed on your device, to check if you have installed, or not, run the following command through the command line:
     
     >  gradlew -v
@@ -37,8 +37,8 @@ Here is how the easier approach:
    1. If you are a **Linux/GNU** user, the system might tell you if you want to install gradle, after you ran the previous command, if it didn't, follow this guide to install gradle in your device: https://gradle.org/install
    2. If you are a **Windows/Mac** user, you can follow the official guide to install: https://gradle.org/releases/ , or https://gradle.org/install
    
-   ** Note: You need to add gradle as a path when installing it.**
-   ** Note: You need to install [Java](https://java.com) before installation of gradle.**
+   **Note: You need to add gradle as a path when installing it.**
+   **Note: You need to install [Java](https://java.com) before installation of gradle.**
    
 2. After gradle is prepared, there is only a little things need to be done.
    1. Download the release of this project:
