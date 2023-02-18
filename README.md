@@ -37,7 +37,7 @@ Here is how the easier approach:
    1. If you are a **Linux/GNU** user, the system might tell you if you want to install gradle, after you ran the previous command, if it didn't, follow this guide to install gradle in your device: https://gradle.org/install
    2. If you are a **Windows/Mac** user, you can follow the official guide to install: https://gradle.org/releases/ , or https://gradle.org/install
    
-   ** Note: You need to add gradle 
+   ** Note: You need to add gradle as a path when installing it.**
    ** Note: You need to install [Java](https://java.com) before installation of gradle.**
    
 2. After gradle is prepared, there is only a little things need to be done.
@@ -73,4 +73,4 @@ You can find your app for debugging in (relative path) /app/build/outputs/apk/de
 
 You can find your app for release in (relative path) /app/build/outputs/apk/debug/app-release-unsigned.apk
 
-**Note: It's recommanded to use debug app instead of the released one, because the released one is unsigned.
+**Note: It's recommanded to use debug app instead of the released one, because the released one is unsigned.**
