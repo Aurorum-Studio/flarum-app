@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://dev.aurorum.co"><img src="https://www.hhilan.com/assets/files/2023-02-18/1676725708-939590-20230218210810.png"></a>
+</p>
+
 # Android App for Flarum
 
 > A way to build an Android app for your flarum site easily.
