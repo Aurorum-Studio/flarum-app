@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.aurorum.buildby">
+    package="com.hhilan.flarum">
     <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoTitleBar" >
-        <activity android:name="com.aurorum.buildby.co.aurorum.buildby.MainActivity"
+        <activity android:name="com.hhilan.flarum.MainActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             >
             <intent-filter>
