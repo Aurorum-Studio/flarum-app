@@ -78,3 +78,16 @@ You can find your app for debugging in (relative path) /app/build/outputs/apk/de
 You can find your app for release in (relative path) /app/build/outputs/apk/debug/app-release-unsigned.apk
 
 **Note: It's recommanded to use debug app instead of the released one, because the released one is unsigned.**
+
+
+Now let's go to  start with the **application approach**. The application approach allows you to:
+* **Add your website url**
+* **Change the name of the app**
+* **Use custom icon for the app**
+* **Customize your app package name**
+* **Add custom functions to your generated app**
+
+This approach doesn't allow you to:
+
+* **Make the app with any operating system gradle support.**
+* **Generate your application with only a little disk storage cost.**
