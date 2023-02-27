@@ -1,4 +1,3 @@
-On building, planned to officially release before 2023/3/6.
 <p align="center">
 <a href="https://dev.aurorum.co"><img src="https://www.hhilan.com/assets/files/2023-02-18/1676725708-939590-20230218210810.png"></a>
 </p>
