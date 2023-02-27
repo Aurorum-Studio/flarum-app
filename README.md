@@ -119,6 +119,8 @@ Here is the **application approach** instruction:
      > Note: You should not use Flarum icon, HhiLan icon, nor Aurorum icon for the icon of your application.
      > ![图片](https://user-images.githubusercontent.com/88573201/221532414-bb67d151-b04a-443b-bdf8-d9c10232dacd.png)
      > ![图片](https://user-images.githubusercontent.com/88573201/221532860-f6d4b1ea-9f2e-4e1f-8e45-5d14aea53da2.png)
+     > ![图片](https://user-images.githubusercontent.com/88573201/221556048-9aa1bbef-4d8d-47f6-9fc4-21be114a8c2a.png)
+
 
 4. You have already done most of your DIY work, for more DIY-able details, go to this doc. （Documentation on building, link would be avaliable after it's built.)
 5. Now, it's time to build this project into an application.
