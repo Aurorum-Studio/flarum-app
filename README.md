@@ -80,6 +80,7 @@ You can find your app for release in (relative path) /app/build/outputs/apk/debu
 
 **Note: It's recommanded to use debug app instead of the released one, because the released one is unsigned.**
 
+-----
 
 Now let's go to  start with the **application approach**. The application approach allows you to:
 * **Add your website url**
@@ -97,10 +98,10 @@ Here is the **application approach** instruction:
 1. Download and install Android Studio, the official release and install instruction can be found on https://developer.android.com/studio/install .
 2. Follow the guide, and install Android Studio on your computer, **Note: You need to make sure that gradle is installed, and added to path.**
 3. Now, it's the time to work with this project. 
-  1. Download the latest release of this project
+   1. Download the latest release of this project
      * If you prefer to download directly from browser, go to this link: https://github.com/Aurorum-Studio/flarum-app/releases
      * If you prefer to download with git, run ```git clone https://github.com/Aurorum-Studio/flarum-app.git```
-  2. Customize your application. (For more instruction of the structure of this project, read this doc.)
+   2. Customize your application. (For more instruction of the structure of this project, read this doc.)
      * To change the name of the application, 
      > Broswe to (relative path) /app/src/main/res/values/strings.xml, and change the "My Flarum" on the second line "<string name="app_name">My Flarum</string>", into the app name you want.
   
