@@ -18,6 +18,9 @@
 
 * **Powerful and extensible.** Customize, extend, and integrate Flarum to suit your community. Flarum’s architecture is amazingly flexible, with a powerful Extension API.
 
+## Why this project is build?
+> Currently, we have not found great Android app solution for Flarum, the only one we found is fluam/fluam_app, but it tends to be an app for a lot of websites, instead of one. Also, it's not avaliable for users to login, nor make any actions through that project. Thus, we build this simple project to help the Flarum webmasters to build apps for their own websites.
+
 ## How to build an app with this project?
 > We have found two approaches for you to use this project, a command-line more approach, and a applications more approach.
 
