@@ -138,7 +138,7 @@ Here are some ways you can get support:
 Discussions: 
 * HhiLan Support Tag: https://www.hhilan.com/d/131-aurorum-studioflarum-app （Sorry for using a photography site for support, but the domain I always use(the second option) is blocked in China, and I may not get notification when you need help using that domain)
 * Aurorum Dev Site: https://dev.aurorum.co/d/91-aurorum-studioflarum-app (Blocked in China)
-* Flarum Discussion: 
+* Flarum Discussion: https://discuss.flarum.org/d/32467-unofficial-flarum-android-app
 Issues: Github: https://github.com/Aurorum-Studio/flarum-app/issues
      
      
