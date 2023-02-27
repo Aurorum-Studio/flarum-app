@@ -58,7 +58,7 @@ Here is instruction of the command-line approach:
     
       > First, go to (relative path) /app/src/main/res/values/strings.xml
       
-      > You can open this file with almost any text editor, and change the "My Flarum" on the second line "<string name="app_name">My Flarum</string>", into the qpp name   you want.
+      > You can open this file with almost any text editor, and change the "My Flarum" on the second line "<string name="app_name">My Flarum</string>", into the app name   you want.
       
       > **This step is very important**, go to (relative path) /app/src/main/java/com/hhilan/flarum/MainActivity.java
       > Change "https://www.hhilan.com" on line 23, to your own url (the link of your website homepage).
@@ -102,6 +102,6 @@ Here is the **application approach** instruction:
      * If you prefer to download with git, run ```git clone https://github.com/Aurorum-Studio/flarum-app.git```
   2. Customize your application. (For more instruction of the structure of this project, read this doc.)
      * To change the name of the application, 
-     > Broswe to (relative path) /app/src/main/res/values/strings.xml, and change the "My Flarum" on the second line "<string name="app_name">My Flarum</string>", into the qpp name you want.
+     > Broswe to (relative path) /app/src/main/res/values/strings.xml, and change the "My Flarum" on the second line "<string name="app_name">My Flarum</string>", into the app name you want.
   
 
