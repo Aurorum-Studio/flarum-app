@@ -132,7 +132,7 @@ Here is the **application approach** instruction:
    * Add a better header.
 5. Make a native Android app for flarum. (This would be a lot of work.)
 
-## At last, if you like this project, please star it. It's also very welcomed to contribute to this project through pull request, or issue, discussions. If you want to support me, please go to https://dl.aurorum.co , and click the ads in a discussion. (I only set a little ads, sorry for make it a little hard to find.
+## At last, if you like this project, please star it. It's also very welcomed to contribute to this project through pull request, or issue, discussions. If you want to support me, please go to my sites, and view some articles. (https://dl.aurorum.co ; https://www.hhilan.com ; https://dev.aurorum.co)
 
 Here are some ways you can get support:
 
