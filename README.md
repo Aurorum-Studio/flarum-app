@@ -111,11 +111,12 @@ Here is the **application approach** instruction:
      > go to the MainActivity.java file, and follow the following images
      > ![图片](https://user-images.githubusercontent.com/88573201/221529922-bed060e2-ceee-484d-85a9-f66fcd13bccb.png)
      > ![图片](https://user-images.githubusercontent.com/88573201/221530192-d17d7a48-25ba-4bb4-abb7-7a30ba665f65.png)
-     > ** Note: Flarum is the trademark of Flarum, you should not contain the string 'flarum' in the first, nor second place of your package name.
+     > #### **!!! Note: Flarum is the trademark of Flarum, you should not use com.flarum or anything that implies the App is an official app by the Flarum team. Which is to say, the first and second string should not contain Flarum Trademark.**
      > #### **!!!Warning!!!: If your previous package name is like shown in the image, including strings like "www", or "com", DO NOT change the package name in this way, you should change it in other ways, while that would take a lot of work. Thus, DO NOT use names contain these strings unless it's your last time to change your package name. If you download this project directly from official release, you WOULD NOT recieve a project with those strings.**
      > ![图片](https://user-images.githubusercontent.com/88573201/221531896-38ca748d-0cdb-4cc0-a0e0-cd7814dfa702.png)
      > And, that's done.
      * To change the icon of your application:
+     > Note: You should not use Flarum icon, HhiLan icon, nor Aurorum icon for the icon of your application.
      > ![图片](https://user-images.githubusercontent.com/88573201/221532414-bb67d151-b04a-443b-bdf8-d9c10232dacd.png)
      > ![图片](https://user-images.githubusercontent.com/88573201/221532860-f6d4b1ea-9f2e-4e1f-8e45-5d14aea53da2.png)
 
