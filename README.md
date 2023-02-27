@@ -135,10 +135,12 @@ Here is the **application approach** instruction:
 ## At last, if you like this project, please star it. It's also very welcomed to contribute to this project through pull request, or issue, discussions. If you want to support me, please go to https://dl.aurorum.co , and click the ads in a discussion. (I only set a little ads, sorry for make it a little hard to find.
 
 Here are some ways you can get support:
+
 Discussions: 
 * HhiLan Support Tag: https://www.hhilan.com/d/131-aurorum-studioflarum-app （Sorry for using a photography site for support, but the domain I always use(the second option) is blocked in China, and I may not get notification when you need help using that domain)
 * Aurorum Dev Site: https://dev.aurorum.co/d/91-aurorum-studioflarum-app (Blocked in China)
 * Flarum Discussion: https://discuss.flarum.org/d/32467-unofficial-flarum-android-app
+
 Issues: Github: https://github.com/Aurorum-Studio/flarum-app/issues
      
      
