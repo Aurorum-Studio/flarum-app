@@ -22,7 +22,7 @@ On building, planned to officially release before 2023/3/6.
 ## How to build an app with this project?
 > We have found two approaches for you to use this project, a command-line more approach, and a applications more approach.
 
-We'll start with the **command-line approach**, to skip to the application approach, click here. The command line approach allows you to:
+### We'll start with the **command-line approach**, to skip to the application approach, click here. The command line approach allows you to:
 * **Add your website url**
 * **Change the name of the app**
 * **Make the app with any operating system gradle support**
@@ -82,7 +82,7 @@ You can find your app for release in (relative path) /app/build/outputs/apk/debu
 
 -----
 
-Now let's go to  start with the **application approach**. The application approach allows you to:
+### Now let's go to  start with the **application approach**. The application approach allows you to:
 * **Add your website url**
 * **Change the name of the app**
 * **Use custom icon for the app**
@@ -103,6 +103,43 @@ Here is the **application approach** instruction:
      * If you prefer to download with git, run ```git clone https://github.com/Aurorum-Studio/flarum-app.git```
    2. Customize your application. (For more instruction of the structure of this project, read this doc.)
      * To change the name of the application, 
-     > Broswe to (relative path) /app/src/main/res/values/strings.xml, and change the "My Flarum" on the second line "<string name="app_name">My Flarum</string>", into the app name you want.
+     > Browse to (relative path) /app/src/main/res/values/strings.xml, and change the "My Flarum" on the second line "<string name="app_name">My Flarum</string>", into the app name you want.
+     > ![图片](https://user-images.githubusercontent.com/88573201/221529286-5cf82de0-681f-4185-9041-afed316b7d2f.png)
+     * To change the name of the package,
+     > go to the MainActivity.java file, and follow the following images
+     > ![图片](https://user-images.githubusercontent.com/88573201/221529922-bed060e2-ceee-484d-85a9-f66fcd13bccb.png)
+     > ![图片](https://user-images.githubusercontent.com/88573201/221530192-d17d7a48-25ba-4bb4-abb7-7a30ba665f65.png)
+     > #### **!!!Warning!!!: If your previous package name is like shown in the image, including strings like "www", or "com", DO NOT change the package name in this way, you should change it in other ways, while that would take a lot of work. Thus, DO NOT use names contain these strings unless it's your last time to change your package name. If you download this project directly from official release, you WOULD NOT recieve a project with those strings.**
+     > ![图片](https://user-images.githubusercontent.com/88573201/221531896-38ca748d-0cdb-4cc0-a0e0-cd7814dfa702.png)
+     > And, that's done.
+     * To change the icon of your application:
+     > ![图片](https://user-images.githubusercontent.com/88573201/221532414-bb67d151-b04a-443b-bdf8-d9c10232dacd.png)
+     > ![图片](https://user-images.githubusercontent.com/88573201/221532860-f6d4b1ea-9f2e-4e1f-8e45-5d14aea53da2.png)
+
+4. You have already done most of your DIY work, for more DIY-able details, go to this doc. （Documentation on building, link would be avaliable after it's built.)
+5. Now, it's time to build this project into an application.
+    > ![图片](https://user-images.githubusercontent.com/88573201/221533741-00b7f65b-78a9-4763-a56f-18be33605d8a.png)
+    > Click make project, and your app is built, with the path given by Android Studio.
+
+## Todo list (It's very welcomed to make the todo list become true before me, and please make a pull request if you did.):
+1. Build a version made with firefox (gecko), to make sure users with poor webview support can use this app.
+2. Add a offline cache read feature, to allow users use the app offline.
+3. Make this Readme file better.
+4. Optimize the appearance of this app:
+   * Add a better-looking loading
+   * Add a better header.
+5. Make a native Android app for flarum. (This would be a lot of work.)
+
+## At last, if you like this project, please star it. It's also very welcomed to contribute to this project through pull request, or issue, discussions. If you want to support me, please go to https://dl.aurorum.co , and click the ads in a discussion. (I only set a little ads, sorry for make it a little hard to find.
+
+Here are some ways you can get support:
+Discussions: 
+* HhiLan Support Tag: https://www.hhilan.com/d/131-aurorum-studioflarum-app （Sorry for using a photography site for support, but the domain I always use(the second option) is blocked in China, and I may not get notification when you need help using that domain)
+* Aurorum Dev Site: https://dev.aurorum.co/d/91-aurorum-studioflarum-app (Blocked in China)
+* Flarum Discussion: 
+Issues: Github: https://github.com/Aurorum-Studio/flarum-app/issues
+     
+     
   
+     
 
