@@ -92,3 +92,16 @@ This approach doesn't allow you to:
 
 * **Make the app with any operating system gradle support.**
 * **Generate your application with only a little disk storage cost.**
+
+Here is the **application approach** instruction:
+1. Download and install Android Studio, the official release and install instruction can be found on https://developer.android.com/studio/install .
+2. Follow the guide, and install Android Studio on your computer, **Note: You need to make sure that gradle is installed, and added to path.**
+3. Now, it's the time to work with this project. 
+  1. Download the latest release of this project
+     * If you prefer to download directly from browser, go to this link: https://github.com/Aurorum-Studio/flarum-app/releases
+     * If you prefer to download with git, run ```git clone https://github.com/Aurorum-Studio/flarum-app.git```
+  2. Customize your application. (For more instruction of the structure of this project, read this doc.)
+     * To change the name of the application, 
+     > Broswe to (relative path) /app/src/main/res/values/strings.xml, and change the "My Flarum" on the second line "<string name="app_name">My Flarum</string>", into the qpp name you want.
+  
+
