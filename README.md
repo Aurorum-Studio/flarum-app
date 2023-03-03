@@ -129,12 +129,13 @@ Here is the **application approach** instruction:
 
 ## Todo list (It's very welcomed to make the todo list become true before me, and please make a pull request if you did.):
 1. Build a version made with firefox (gecko), to make sure users with poor webview support can use this app.
-2. Add a offline cache read feature, to allow users use the app offline.
+2. Add a offline cache read feature, to allow users use the app offline. (might be done before 2023/05)
 3. Make this Readme file better.
 4. Optimize the appearance of this app:
    * Add a better-looking loading
    * Add a better header.
 5. Make a native Android app for flarum. (This would be a lot of work.)
+6. Make a full automatic Windows/Linux/Android/web application to build this project to an app.
 
 ### At last, if you like this project, please star it. It's also very welcomed to contribute to this project through pull request, or issue, discussions. If you want to support me, please go to my sites, and view some articles. (https://dl.aurorum.co ; https://www.hhilan.com ; https://dev.aurorum.co)
 
