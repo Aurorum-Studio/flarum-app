@@ -147,6 +147,7 @@ Discussions:
 * Flarum Discussion: https://discuss.flarum.org/d/32467-unofficial-flarum-android-app
 
 Issues: Github: https://github.com/Aurorum-Studio/flarum-app/issues
-     
+
+A small notice: The version of Gradle would impact the building process of this project, if you are in a country or region that have Google services available, you can download the right one from Android Studio, if you are not, you need to download version 6.7.1 from gradle official website.     
      
   
